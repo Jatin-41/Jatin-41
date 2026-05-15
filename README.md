@@ -43,9 +43,6 @@ I am a passionate **Full Stack Developer** dedicated to building high-performanc
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=jatin-41&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Jatin's GitHub Stats" />
-      </td>
-      <td>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=jatin-41&theme=tokyonight&hide_border=true" alt="Jatin's Streak" />
       </td>
     </tr>
