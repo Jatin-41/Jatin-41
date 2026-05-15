@@ -73,13 +73,13 @@ I am a passionate **Web Developer** dedicated to building high-performance web a
   <a href="https://kaggle.com/jatinjagatiya" target="blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
   </a><br>
+  <a href="https://discord.gg/jatin_jagatiya" target="blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a><br>
   <a href="https://fb.com/profile.php?id=100090678055148" target="blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a><br>
   <a href="https://instagram.com/jtin240" target="blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a><br>
-  <a href="https://discord.gg/jatin_jagatiya" target="blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </p>
