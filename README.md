@@ -50,7 +50,6 @@ I am a passionate **Full Stack Developer** dedicated to building high-performanc
       </td>
     </tr>
   </table>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatin-41&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
@@ -83,15 +82,4 @@ I am a passionate **Full Stack Developer** dedicated to building high-performanc
   <a href="https://discord.gg/jatin_jagatiya" target="blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
-</p>
-
-<br />
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
-</div>
-
----
-<p align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad."</i> – Cory House
 </p>
