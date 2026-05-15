@@ -4,6 +4,9 @@
 
 <h1 align="center">Hey there! I'm Jatin Jagatiya 👋</h1>
 
+<img align="right" alt="Coding GIF" width="300" src="https://user-images.githubusercontent.com/74038190/212749726-d36b8253-74bb-4509-870d-e29ed3b8ff4a.gif">
+
+
 <p align="center">
   <a href="https://portfolio-4bcd9.web.app">
     <img src="https://img.shields.io/badge/-View%20Portfolio-0e75b6?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" />
@@ -20,10 +23,10 @@
 ---
 
 ### 🚀 About Me
-I am a passionate **Full Stack Developer** dedicated to building high-performance web applications and seamless digital experiences. With a strong foundation in the **React ecosystem** and **Python**, I love transforming complex ideas into intuitive, user-friendly solutions.
+I am a passionate **Web Developer** dedicated to building high-performance web applications and seamless digital experiences. With a strong foundation in the **React ecosystem** and **Python**, I love transforming complex ideas into intuitive, user-friendly solutions.
 
 - 🔭 **Current Focus:** Building scalable architectures and modern UI/UX components.
-- 🌱 **Learning:** Deep diving into Advanced System Design and Cloud-Native applications.
+- 🌱 **Learning:** Deep diving into Advanced System Design.
 - 💬 **Expertise:** React, Node.js, Express, Python, and SQL/NoSQL Databases.
 - ⚡ **Goal:** To create impact through code and continuous innovation.
 
