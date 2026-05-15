@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./banner_fixed.png" alt="Jatin Jagatiya Banner" width="100%" />
+  <img src="./banner.png" alt="Jatin Jagatiya Banner" width="100%" />
 </div>
 
 <h1 align="center">Hey there! I'm Jatin Jagatiya 👋</h1>
