@@ -37,33 +37,42 @@ I am a passionate **Web Developer** dedicated to building high-performance web a
 <table width="650">
   <tbody>
     <tr>
-      <td align="center" width="130"><b>Languages</b></td>
+      <td align="center" width="180"><b>Languages</b></td>
       <td>
-        <img src="https://skillicons.dev/icons?i=python,js,ts" />
+        <img src="https://skillicons.dev/icons?i=python" />&nbsp;&nbsp;
+        <img src="https://skillicons.dev/icons?i=js" />&nbsp;&nbsp;
+        <img src="https://skillicons.dev/icons?i=ts" />
       </td>
     </tr>
     <tr>
-      <td align="center" width="130"><b>Frontend</b></td>
+      <td align="center" width="180"><b>Frontend</b></td>
       <td>
-        <img src="https://skillicons.dev/icons?i=react,angular,html,css" />
+        <img src="https://skillicons.dev/icons?i=react" />&nbsp;&nbsp;
+        <img src="https://skillicons.dev/icons?i=angular" />&nbsp;&nbsp;
+        <img src="https://skillicons.dev/icons?i=html" />&nbsp;&nbsp;
+        <img src="https://skillicons.dev/icons?i=css" />
       </td>
     </tr>
     <tr>
-      <td align="center" width="130"><b>Backend</b></td>
+      <td align="center" width="180"><b>Backend</b></td>
       <td>
-        <img src="https://skillicons.dev/icons?i=nodejs,express" />
+        <img src="https://skillicons.dev/icons?i=nodejs" />&nbsp;&nbsp;
+        <img src="https://skillicons.dev/icons?i=express" />
       </td>
     </tr>
     <tr>
-      <td align="center" width="130"><b>Database</b></td>
+      <td align="center" width="180"><b>Database</b></td>
       <td>
-        <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+        <img src="https://skillicons.dev/icons?i=mysql" />&nbsp;&nbsp;
+        <img src="https://skillicons.dev/icons?i=mongodb" />
       </td>
     </tr>
     <tr>
-      <td align="center" width="130"><b>Tools</b></td>
+      <td align="center" width="180"><b>Tools</b></td>
       <td>
-        <img src="https://skillicons.dev/icons?i=git,github,figma" />
+        <img src="https://skillicons.dev/icons?i=git" />&nbsp;&nbsp;
+        <img src="https://skillicons.dev/icons?i=github" />&nbsp;&nbsp;
+        <img src="https://skillicons.dev/icons?i=figma" />
       </td>
     </tr>
   </tbody>
