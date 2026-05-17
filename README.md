@@ -113,19 +113,19 @@ I am a passionate **Web Developer** dedicated to building high-performance web a
 
 <p align="left">
   <a href="https://linkedin.com/in/jatin-jagatiya-5b41b936b/" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a><br>
+    <img src="https://img.shields.io/badge/-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>&nbsp;&nbsp;
   <a href="https://kaggle.com/jatinjagatiya" target="blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
-  </a><br>
+    <img src="https://img.shields.io/badge/-%2320BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+  </a>&nbsp;&nbsp;
   <a href="https://discord.gg/jatin_jagatiya" target="blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a><br>
+    <img src="https://img.shields.io/badge/-%235865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>&nbsp;&nbsp;
   <a href="https://fb.com/profile.php?id=100090678055148" target="blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a><br>
+    <img src="https://img.shields.io/badge/-%231877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>&nbsp;&nbsp;
   <a href="https://instagram.com/jtin240" target="blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
 
