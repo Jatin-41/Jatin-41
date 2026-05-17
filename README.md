@@ -118,3 +118,14 @@ I am a passionate **Web Developer** dedicated to building high-performance web a
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
+
+---
+
+<!-- Contribution Snake -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jatin-41/jatin-41/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+<p align="center">
+  <b>✨ Let's build something amazing together! ✨</b>
+</p>
