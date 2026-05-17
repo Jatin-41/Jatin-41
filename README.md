@@ -34,7 +34,7 @@ I am a passionate **Web Developer** dedicated to building high-performance web a
 
 ### 🛠️ My Tech Stack
 
-<table align="left" width="100%">
+<table width="100%">
 <tr>
   <td align="center" width="220">
     <strong>Languages</strong>
@@ -77,7 +77,9 @@ I am a passionate **Web Developer** dedicated to building high-performance web a
 </tr>
 </table>
 
-<br>
+<br clear="both">
+
+
 
 ---
 
