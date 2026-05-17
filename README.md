@@ -83,6 +83,8 @@ I am a passionate **Web Developer** dedicated to building high-performance web a
       </td>
     </tr>
   </table>
+  <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jatin-41&theme=tokyo-night&hide_border=true" alt="Jatin's Contribution Graph" />
 </div>
 
 ---
