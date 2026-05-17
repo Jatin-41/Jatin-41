@@ -35,34 +35,34 @@ I am a passionate **Web Developer** dedicated to building high-performance web a
 ### 🛠️ My Tech Stack
 
 <div align="center">
-  <table>
+  <table width="100%">
     <tbody>
       <tr>
-        <td align="center"><b>Languages</b></td>
+        <td align="center" width="180"><b>Languages</b></td>
         <td>
           <img src="https://skillicons.dev/icons?i=python,js,ts" />
         </td>
       </tr>
       <tr>
-        <td align="center"><b>Frontend</b></td>
+        <td align="center" width="180"><b>Frontend</b></td>
         <td>
           <img src="https://skillicons.dev/icons?i=react,angular,html,css" />
         </td>
       </tr>
       <tr>
-        <td align="center"><b>Backend</b></td>
+        <td align="center" width="180"><b>Backend</b></td>
         <td>
           <img src="https://skillicons.dev/icons?i=nodejs,express" />
         </td>
       </tr>
       <tr>
-        <td align="center"><b>Database</b></td>
+        <td align="center" width="180"><b>Database</b></td>
         <td>
           <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
         </td>
       </tr>
       <tr>
-        <td align="center"><b>Tools</b></td>
+        <td align="center" width="180"><b>Tools</b></td>
         <td>
           <img src="https://skillicons.dev/icons?i=git,github,figma" />
         </td>
