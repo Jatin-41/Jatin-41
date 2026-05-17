@@ -139,3 +139,5 @@ I am a passionate **Web Developer** dedicated to building high-performance web a
 <p align="center">
   <b>✨ Let's build something amazing together! ✨</b>
 </p>
+<!-- Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=7aa2f7,bb9af7,7dcfff&height=120&section=footer"/>
