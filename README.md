@@ -83,14 +83,6 @@ I am a passionate **Web Developer** dedicated to building high-performance web a
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://streak-stats.demolab.com/?user=jatin-41&theme=tokyonight&hide_border=true" alt="Jatin's Streak" />
-      </td>
-    </tr>
-  </table>
-  <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jatin-41&theme=tokyo-night&hide_border=true" alt="Jatin's Contribution Graph" />
 </div>
 
