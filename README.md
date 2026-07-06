@@ -86,7 +86,7 @@ I am a passionate **Web Developer** dedicated to building high-performance web a
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=jatin-41&theme=tokyonight&hide_border=true" alt="Jatin's Streak" />
+        <img src="https://streak-stats.demolab.com/?user=jatin-41&theme=tokyonight&hide_border=true" alt="Jatin's Streak" />
       </td>
     </tr>
   </table>
