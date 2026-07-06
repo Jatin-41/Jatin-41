@@ -3,10 +3,6 @@
 </div>
 
 <h1 align="center">Hey there! I'm Jatin Jagatiya 👋</h1>
-
-<img align="right" alt="Coding GIF" width="300" src="https://user-images.githubusercontent.com/74038190/212749726-d36b8253-74bb-4509-870d-e29ed3b8ff4a.gif">
-
-
 <p align="center">
     <img src="https://img.shields.io/badge/-View%20Portfolio-0e75b6?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" />
   <a href="mailto:jatinjagatiya26@gmail.com">
