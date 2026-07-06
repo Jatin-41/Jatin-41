@@ -8,9 +8,7 @@
 
 
 <p align="center">
-  <a href="https://portfolio-4bcd9.web.app">
     <img src="https://img.shields.io/badge/-View%20Portfolio-0e75b6?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" />
-  </a>
   <a href="mailto:jatinjagatiya26@gmail.com">
     <img src="https://img.shields.io/badge/-Contact%20Me-white?style=for-the-badge&logo=gmail&logoColor=red" alt="Email" />
   </a>
